@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yvonnegat/recipeFinder.git/static/css/main.f855e6bc.css",
-    "main.js": "/yvonnegat/recipeFinder.git/static/js/main.3d8e6a47.js",
-    "static/js/453.5cfbeeba.chunk.js": "/yvonnegat/recipeFinder.git/static/js/453.5cfbeeba.chunk.js",
-    "index.html": "/yvonnegat/recipeFinder.git/index.html",
-    "main.f855e6bc.css.map": "/yvonnegat/recipeFinder.git/static/css/main.f855e6bc.css.map",
-    "main.3d8e6a47.js.map": "/yvonnegat/recipeFinder.git/static/js/main.3d8e6a47.js.map",
-    "453.5cfbeeba.chunk.js.map": "/yvonnegat/recipeFinder.git/static/js/453.5cfbeeba.chunk.js.map"
+    "main.css": "/recipeFinder/static/css/main.e6c13ad2.css",
+    "main.js": "/recipeFinder/static/js/main.d18f2bb2.js",
+    "static/js/453.5cfbeeba.chunk.js": "/recipeFinder/static/js/453.5cfbeeba.chunk.js",
+    "index.html": "/recipeFinder/index.html",
+    "main.e6c13ad2.css.map": "/recipeFinder/static/css/main.e6c13ad2.css.map",
+    "main.d18f2bb2.js.map": "/recipeFinder/static/js/main.d18f2bb2.js.map",
+    "453.5cfbeeba.chunk.js.map": "/recipeFinder/static/js/453.5cfbeeba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3d8e6a47.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d18f2bb2.js"
   ]
 }
